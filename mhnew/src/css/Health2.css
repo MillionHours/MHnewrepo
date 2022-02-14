@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Asap+Condensed&family=Great+Vibes&family=Josefin+Sans:ital,wght@0,100;0,400;0,700;1,100;1,300;1,500&family=Josefin+Slab:ital,wght@1,700&family=Quintessential&display=swap');
+
+.educomponenthealth {
+    width: 90vw;
+    height: 90vh;
+    background-image: url("../img/Healthban.png");
+    background-size: 100% 100%;
+    background-image:  linear-gradient(brown);
+    margin-left: 50px;
+    margin-top:10px;
+    background-repeat: no-repeat;
+   
+    
+    }
+.edubox{
+    display: grid;
+    grid-template-columns:  1fr 1fr ;
+    
+
+}
+.educommon{
+    display: grid;
+   
+    place-items:center;
+    margin-top: 70vh;
+
+}
+
+.edubox15{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+    color:white;
+    width: 45vw;
+    background-color:black;
+    opacity: 0.5;
+    height: 100px;
+    margin-top:370px;
+}
+
+
+.containerhealth{
+
+    width: 50rem;
+    height: 50rem;
+    /* margin-top: 100px; */
+}
+
+
+.containerh1 h2{
+    font-family: 'Asap Condensed', sans-serif;
+    color:white;
+    padding-top: 10px;
+
+
+}
