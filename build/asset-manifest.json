@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf360c21.css",
+    "main.js": "/static/js/main.8c5db1c2.js",
+    "static/js/787.ff365d4f.chunk.js": "/static/js/787.ff365d4f.chunk.js",
+    "static/media/Tushar.png": "/static/media/Tushar.dfc712cbca535536d1e6.png",
+    "static/media/c5.jpg": "/static/media/c5.a1eb6531088e3b31bb86.jpg",
+    "static/media/Agriban3.jpg": "/static/media/Agriban3.dc1b155c7385b0a06433.jpg",
+    "static/media/c3.jpg": "/static/media/c3.f1842c500afaa3eafdf7.jpg",
+    "static/media/Event1.jpg": "/static/media/Event1.f78fa5fabad4f0b0a568.jpg",
+    "static/media/Event.png": "/static/media/Event.6c5b7e660770d1ea4946.png",
+    "static/media/eduban2.jpg": "/static/media/eduban2.7100af2e48054c84e7f3.jpg",
+    "static/media/education.jpg": "/static/media/education.e2253f61c0cc2ec65339.jpg",
+    "static/media/farmlogo.jpg": "/static/media/farmlogo.422f711980944a6b4989.jpg",
+    "static/media/Sustainban.jpg": "/static/media/Sustainban.7aad3267744f20670405.jpg",
+    "static/media/health.png": "/static/media/health.32bedb80991b292ae4e4.png",
+    "static/media/sustainlogo.jpg": "/static/media/sustainlogo.7ccb06894f0df05fc7a9.jpg",
+    "static/media/About.jpg": "/static/media/About.730d8e93033137fec898.jpg",
+    "static/media/Event.jpg": "/static/media/Event.29ff419e93dd3ddfe92b.jpg",
+    "static/media/Healthban.png": "/static/media/Healthban.2e55a2c1d5bb1f7804e3.png",
+    "static/media/Farming.jpg": "/static/media/Farming.a2c862f1c0b8d29a0408.jpg",
+    "static/media/c2.jpg": "/static/media/c2.5b81b7b1dbfa0860509e.jpg",
+    "static/media/subham.jpg": "/static/media/subham.8cc05e43fd48af72af81.jpg",
+    "static/media/Sus.jpg": "/static/media/Sus.72b18a9d890fae854694.jpg",
+    "static/media/edulogo.jpg": "/static/media/edulogo.518978d54083800836cf.jpg",
+    "static/media/eventbackimg3.jpg": "/static/media/eventbackimg3.58c79e197553278c3bbe.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.bf360c21.css.map": "/static/css/main.bf360c21.css.map",
+    "main.8c5db1c2.js.map": "/static/js/main.8c5db1c2.js.map",
+    "787.ff365d4f.chunk.js.map": "/static/js/787.ff365d4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf360c21.css",
+    "static/js/main.8c5db1c2.js"
+  ]
+}
